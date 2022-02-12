@@ -9,13 +9,7 @@ package ejemplogithub;
  *
  * @author joser
  */
-public class EjemploGithub {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hoia");
-    }
+public class Estudiantes extends Persona{
     
+    String cursoMatriculado;
 }
